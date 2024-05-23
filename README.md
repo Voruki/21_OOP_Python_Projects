@@ -1,20 +1,6 @@
-# CS50’s Introduction to Programming with Python 🐍
-[![Certificate](./README_Materials/Vorky_CS50P_Certificate.png)](https://certificates.cs50.io/5858ed45-fe4c-4932-9edb-afc616c0ca4c.png?size=letter)
-### Above are my proposed solutions for CS50's Introduction to Programming with Python, 2024 edition.
-
-<br/>
-
-![Thumbnail](./README_Materials/Thumbnail.png)
-### Final Project: [Simple Table Tennis Game 🏓](https://www.youtube.com/watch?v=7wL_XpK6ztc)
-#### In contrast to other accounts, I have included both my project codes and test codes within this repository for reference purposes, aiding others in crafting their own final projects for this course. Please be aware that the program is designed to operate solely on Windows devices.
-
-<br/>
-
-## ⚠️ Disclaimer:
-
-### ❗ **The following code snippets are provided solely for educational purposes and are not intended to be utilized or submitted as one's own solutions.**
-
-### ❗ **Engaging in cheating contravenes the [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) policy of the course and undermines the purpose of learning programming effectively.**
+# 21 Object-Oriented Programming (OOP) Python Fundamental Projects 🛠
+![Certificate](./README_Materials/Repo_Thumbnail.png)
+### Explore 21 fundamental Python projects, perfect for entry-level learners. Crafted in an Object-Oriented Programming (OOP) style, each project is thoroughly documented with explanation comments. This repository showcases the 21 basic Python projects I've completed, providing a valuable resource for understanding OOP principles.
 
 <br/>
 
